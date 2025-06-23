@@ -1,4 +1,4 @@
-# Mini CRM - Gestion des Clients
+# Module CRM - Gestion des Clients
 
 Bienvenue dans ce mini projet CRM (Customer Relationship Management) développé avec **Next.js**, **React**, **Tailwind CSS**, **TanStack Table** et **Lucide Icons**.
 

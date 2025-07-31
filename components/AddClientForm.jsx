@@ -9,7 +9,7 @@ import { X } from "lucide-react"
 export default function AddClientForm({ onAdd }) {
   const [form, setForm] = useState({
     name: "",
-    email: "",
+    email: "", 
     phone: "",
     tags: [],
     createdAt: new Date().toISOString().slice(0, 10),
